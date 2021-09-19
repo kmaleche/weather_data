@@ -1,0 +1,94 @@
+City_ID,City,Max Temp,CurrentDescription,Lat,Lng,Hotel Name
+3,Uglovskoye,43.18,few clouds,51.3557,80.1942,"Ooo ""Premium"""
+6,Barrow,30.22,light snow,71.2906,-156.7887,King Eider Inn
+7,Mataura,41.49,few clouds,-46.1927,168.8643,Ellie's Villa
+23,Tasiilaq,35.24,overcast clouds,65.6145,-37.6368,The Red House
+39,Kuusamo,41.04,overcast clouds,65.9667,29.1833,Hotel Kuusanka
+47,Bakchar,38.32,broken clouds,57.0186,82.0711,Kristina
+61,Fort Nelson,40.59,broken clouds,58.8053,-122.7002,The Fort Nelson Hotel
+63,Seymchan,39.81,overcast clouds,62.8833,152.4333,
+68,Kushmurun,40.3,scattered clouds,52.4503,64.6311,Gostinitsa Pri Depo
+71,Nanortalik,38.14,overcast clouds,60.1432,-45.2371,Hotel Kap Farvel
+77,Dikson,35.89,light rain,73.5069,80.5464,
+79,Nyrob,36.7,overcast clouds,60.733000000000004,56.7202,Gostinitsa
+92,Aklavik,40.03,broken clouds,68.2191,-135.0107,Aklavik Inn
+100,Te Anau,38.14,overcast clouds,-45.4167,167.7167,Kingsgate Hotel Te Anau
+102,Nikolskoye,44.49,overcast clouds,59.7035,30.7861,Tourist House - Sablino
+106,Bluff,41.81,scattered clouds,-46.6,168.3333,Bluff Homestead - Guesthouse & Campervan Park
+108,Provideniya,32.97,light snow,64.3833,-173.3,
+109,Nome,33.17,overcast clouds,64.5011,-165.4064,Dredge 7 Inn
+112,Norman Wells,42.84,light rain,65.282,-126.8329,Heritage Hotel
+116,Pangnirtung,37.4,scattered clouds,66.1451,-65.7125,Kilabuk Lodge
+118,Iisalmi,44.62,overcast clouds,63.5592,27.1907,Original Sokos Hotel Koljonvirta
+122,Verkhnyaya Inta,33.22,broken clouds,65.9811,60.3094,
+144,Pevek,30.74,overcast clouds,69.7008,170.3133,Hotel ABC
+153,Saskylakh,30.06,overcast clouds,71.9167,114.0833,
+164,Khatanga,31.5,snow,71.9667,102.5,"Gostinitsa ""Zapolyar'ye"""
+172,Sovetskiy,35.55,overcast clouds,61.3614,63.5842,Apartment on Kievskaya 29
+174,Iqaluit,37.13,broken clouds,63.7506,-68.5145,Frobisher Inn
+208,Tiksi,34.23,overcast clouds,71.6872,128.8694,Arktika
+224,Bavly,38.61,scattered clouds,54.393,53.2602,Neftyanik
+226,Tuatapere,41.83,scattered clouds,-46.1333,167.6833,Ron and Tony's Bed & Breakfast
+229,Yellowknife,41.52,broken clouds,62.456,-114.3525,The Explorer Hotel
+234,Baykit,44.6,overcast clouds,61.67,96.37,
+236,Kaitangata,40.32,few clouds,-46.2817,169.8464,Kaitangata Motor Camp
+239,Tazovskiy,38.3,overcast clouds,67.4667,78.7,TazHostel
+252,Tuktoyaktuk,41.0,broken clouds,69.4541,-133.0374,End of The Road Ltd.
+253,Turtas,35.17,light rain,58.9417,69.1325,Domashnyaya Gostinitsa
+260,Longyearbyen,39.04,broken clouds,78.2186,15.6401,"Radisson Blu Polar Hotel, Spitsbergen"
+263,Anadyr,30.7,scattered clouds,64.75,177.4833,"Гостиница ""Анадырь"""
+269,Maniitsoq,36.72,scattered clouds,65.4167,-52.9,Hotel Heilmann Lyberth
+276,Paamiut,37.2,overcast clouds,61.994,-49.6678,Hotel Ivaana
+280,Ostrovnoy,38.25,clear sky,68.0531,39.5131,
+287,Talnakh,38.23,overcast clouds,69.4865,88.3972,Talnakh Hotel
+313,Clyde River,31.05,overcast clouds,70.4692,-68.5914,Qamaq Hotel
+315,Sergeyevka,39.99,overcast clouds,53.88,67.4158,Amina
+321,Turinsk,36.88,overcast clouds,58.0458,63.696000000000005,hotel Arthur
+322,Vostok,35.29,clear sky,46.4856,135.8833,
+337,Shumerlya,39.22,overcast clouds,55.5005,46.4129,Otel' Oriyental'
+339,Wanaka,39.11,overcast clouds,-44.7,169.15,Wanaka Homestead Lodge and Cottages
+341,Kem,40.78,few clouds,64.9555,34.5793,"Mini-hotel ""Kem"""
+357,Inuvik,40.06,light intensity shower rain,68.3499,-133.7218,Nova Inn Inuvik
+382,Pangody,39.49,overcast clouds,65.85,74.4859,Elizaveta Shevchuk's House
+398,Klyuchi,44.06,broken clouds,52.2667,79.1667,Vesolaya Mayovka
+407,Ust-Omchug,37.51,overcast clouds,61.15,149.6333,
+417,Tommot,35.24,overcast clouds,58.9564,126.2925,Gostinitsa Tommot
+433,Haines Junction,41.9,overcast clouds,60.7522,-137.5108,Parkside Inn
+436,Naryan-Mar,38.88,overcast clouds,67.6713,53.086999999999996,Hostel Agat
+442,Yar-Sale,33.12,light snow,66.8333,70.8333,Yalemd
+453,Barsovo,37.53,overcast clouds,61.1667,73.1667,Dipanjan Goswami
+459,Talaya,39.47,overcast clouds,61.3833,152.75,
+462,Tilichiki,41.58,overcast clouds,60.4667,166.1,
+464,Zhireken,40.41,few clouds,52.8249,117.3076,Gostinitsa
+465,Horki,44.46,overcast clouds,54.2861,30.9842,Sauna V Gorkakh. Zhil'ye.
+468,Atasu,42.66,clear sky,48.6814,71.6433,Dostyk
+496,Kovdor,35.92,scattered clouds,67.5662,30.4758,Derevo Zhelaniy
+497,Lensk,44.24,overcast clouds,60.7253,114.9278,ТинОрС
+499,Namtsy,35.71,overcast clouds,62.7161,129.6658,"""Эңсиэли Киин"""
+506,Ust-Nera,33.21,overcast clouds,64.5667,143.2,Hotel Ust-Nera
+510,Buzdyak,37.98,broken clouds,54.5833,54.55,Tgk Alisa
+527,Nadvoitsy,42.76,overcast clouds,63.8667,34.3167,Sever Nadvoitsy
+530,Krasnovishersk,36.48,overcast clouds,60.4078,57.082,Vishera hotel
+534,Kenai,41.14,clear sky,60.5544,-151.2583,Aspen Extended Stay Suites
+536,Nuuk,41.61,broken clouds,64.1835,-51.7216,Vandrehuset
+543,Palivere,44.62,clear sky,58.9664,23.8911,Roska kodu
+545,Usvyaty,39.29,overcast clouds,55.7456,30.7533,Gostinitsa Usvyacha
+549,Lyaskelya,44.26,overcast clouds,61.7667,31.0167,Manor Cafe
+558,Brodokalmak,41.9,overcast clouds,55.5748,62.082,Stoybishche. Lesnaya Stoyanka
+582,Syamzha,33.06,scattered clouds,60.0158,41.0614,Hotel Syamzha
+587,Usinsk,35.8,broken clouds,65.9939,57.5281,Dobro Pozhalovaty
+596,Konevo,40.77,overcast clouds,62.1215,39.3192,
+608,Zhovtneve,42.6,overcast clouds,50.6637,24.2492,
+618,Ayan,44.49,few clouds,56.45,138.1667,Gostinitsa
+626,Fairbanks,38.1,light rain,64.8378,-147.7164,Westmark Fairbanks Hotel & Conference Center
+636,Beringovskiy,40.1,overcast clouds,63.05,179.3167,Beringgorski
+665,Mamlyutka,38.57,overcast clouds,54.9375,68.5394,
+666,Novopetrovskoye,43.72,overcast clouds,55.9928,36.4719,Cottage village Slavenka
+669,Abalak,35.42,light rain,58.1286,68.5944,Туристический комплекс Абалак
+676,Vershino-Darasunskiy,39.38,scattered clouds,52.35,115.5167,
+679,Chernyshevskiy,36.12,overcast clouds,63.0128,112.4714,Chernyseyskiy
+680,Vanavara,43.05,overcast clouds,60.34,102.2797,
+690,Shirokiy,41.85,clear sky,49.758,129.523,
+699,Mackenzie,44.02,overcast clouds,55.2999,-123.1698,Hilton Shop
+707,Kharitonovo,38.48,overcast clouds,61.4009,47.4978,
+714,Whitehorse,41.09,overcast clouds,60.7161,-135.0538,The Sternwheeler Hotel & Conference Centre
